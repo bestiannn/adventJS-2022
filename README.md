@@ -1,4 +1,4 @@
-# Codember 
+# adventJS 2022 
 
 Códigos en JS realizados para resolver los retos del adventJS 2022
 
