@@ -1,0 +1,12 @@
+{
+  "name": "adventjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "day-01": "node day-01/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
