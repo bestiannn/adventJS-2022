@@ -9,4 +9,5 @@ Ejecuta los comandos con node y npm
 ```bash
   npm run day-01
   npm run day-02
+  npm run day-03
 ```
