@@ -1,6 +1,7 @@
 # adventJS 2022 
 
-Códigos en JS realizados para resolver los retos del adventJS 2022
+Códigos en JS realizados para resolver los retos del adventJS 2022.
+Algunos días tienen su versión optimizada, la cual es la versión utilizada para obtener más puntos dentro de la página.
 
 ## Comandos
 
