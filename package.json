@@ -10,7 +10,8 @@
     "day-04": "node day-04/index.js",
     "day-05": "node day-05/index.js",
     "day-06": "node day-06/index.js",
-    "day-07": "node day-07/index.js"
+    "day-07": "node day-07/index.js",
+    "day-08": "node day-08/index.js"
   },
   "keywords": [],
   "author": "",
