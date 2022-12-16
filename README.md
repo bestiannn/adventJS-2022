@@ -23,4 +23,5 @@ Ejecuta los comandos con node y npm
   npm run day-13
   npm run day-14
   npm run day-15
+  npm run day-16
 ```
